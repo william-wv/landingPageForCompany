@@ -1,0 +1,21 @@
+[
+  {
+    "id":1,
+    "i": "bi bi-code",
+    "route": "/"
+  },{
+    "id":2,
+    "i": "bi bi-layers",
+    "route": "/"
+  },
+  {
+    "id":3,
+    "i": "bi bi-lightning",
+    "route": "/"
+  },
+  {
+    "id":4,
+    "i": "i bi-window-stack",
+    "route": "/"
+  }
+]

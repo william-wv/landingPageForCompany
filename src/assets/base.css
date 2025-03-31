@@ -1,0 +1,31 @@
+:root {
+  --primary: #2563EB;
+  --secundary: #dedcff;
+
+  --btns-blue: #433bff;
+
+  --black: #000000;
+  --white: #FFFFFF;
+
+  --txt-h1: #050315;
+  --txt-h2: #737b9b;
+  --txt-p: #0e0f13;
+
+  --back-graund-i: #e5e7eb3d;
+}
+
+*{
+padding: 0;
+margin: 0;
+overflow-x: hidden;
+}
+
+ul,ol {
+  list-style-type: none;
+}
+
+a{
+  color: var(--black);
+  text-decoration: none;
+}
+
